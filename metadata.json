@@ -1,0 +1,5 @@
+{
+  "name": "AI Website Builder",
+  "description": "An AI-powered tool that allows users to generate, refine, and export professional websites through a chat-based interface. It supports text and image prompts to build and customize layouts, and offers export options including raw HTML and a basic WordPress theme.",
+  "requestFramePermissions": []
+}
